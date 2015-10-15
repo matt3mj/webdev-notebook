@@ -23,12 +23,23 @@ article {
   border-width: 2px;
   height: 20%;
   padding: 1rem;
+  margin-bottom: 1rem;
 }
 
 .flexContainer {
   display: flex;
   flex-flow: row wrap;
   justify-content: space-around;
+}
+
+.body {
+  margin-left: 1rem;
+}
+
+.footer {
+  display: flex;
+  justify-content: center;
+  align-items: center;
 }
 
 /*
