@@ -17,12 +17,12 @@ html {
 }
 
 article {
+  width: 20rem;
   border-radius: 5px;
   border-style: solid;
   border-width: 2px;
   height: 20%;
-  margin-top: 3%;
-  padding: 2rem;
+  padding: 1rem;
 }
 
 .flexContainer {
